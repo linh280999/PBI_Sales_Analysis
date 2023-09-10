@@ -1,5 +1,4 @@
 # PBI_Sales_Analysis
-
 Data Modelling, choosing the right visualizations to perform different metrics and using proper structure to tell a story, which is actionable and provide insightful facts and recommendations to meet requirements of stakeholder (Sale Department)
 # Table of contents
 1. Introduction
