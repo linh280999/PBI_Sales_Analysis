@@ -4,6 +4,7 @@ Data Modelling, choosing the right visualizations to perform different metrics a
 1. Introduction
 2. Apply design thinking mindset
 3. Process
+4. Insight & Recommendation
 # Introduction
 ## 1. Business Context
 Adventure Works Cycles, a large, multinational manufacturing company,  produces and distributes metal and composite bicycles to North American, European,  and Asian commercial markets. While its base operation is located in Bothell,   Washington, and employs 500 people, several regional sales teams are located throughout the company’s market region. 
