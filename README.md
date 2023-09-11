@@ -51,7 +51,7 @@ Dataset access:
 ![image](https://github.com/linh280999/PBI_Sales_Analysis/assets/144362005/1281a0fc-b375-45ac-bd95-1a0ae4f5abe2)
 # Insight & recommendation
 ## 1. Insight
-### * Sale overview
+### Sale overview
 During the period 2011-2014, the business had 19,000 customers with more than 31,000 orders, the number of products ordered was more than 275,000 thousand, revenue was more than 110 million USD, profit was 9.37 million USD, the profit was 9.37 million USD. profit ratio was 8.53%
 
 Annual growth rate reached 22.34%
@@ -65,7 +65,7 @@ The best-selling item is Bike, accounting for 86.2%
 Most of the orders are placed through sales person (accounting for 73.27%), the remaining orders are placed by customers themselves online, accounting for 26.73%.
 
 US is the market bringing in the most revenue (57.35%), following by CA (14.89%) and AU (9.7%), and GB, FR, DE (with respective proportions is 6.98%, 6.60%, 4.47%)
-### * Customer
+### Customer
 
 The majority of customers are over 55 years old, accounting for 74.56%. The number of male and female customer is not too different, male customers contribute slightly more sales value than female customers.
 
@@ -74,7 +74,7 @@ The proportion of customers by age group in different markets is similar: Over 7
 Income groups 50001-75000 and 25001-50000 are the two groups that spend the most, accounting for 30.42% and 29.25% respectively. Both income groups have the highest proportion of customers over the age of 55
 
 Bicycles are the best-selling items among all age groups, with groups under 17 mainly buying jewelry and clothes.
-### * Product
+### Product
 The best-selling subcategory is Road Bike (more than 44 million bikes) and Mountain bike (more than 37 million bikes)
 
 Low-selling products are chains (more than 9 thousand), pumps (14 thousand), locks (16 thousand),...
