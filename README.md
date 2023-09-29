@@ -44,11 +44,11 @@ Dataset access:
 * Using DAX to create measures and calculated columns
 * Build 3 report pages
 ### Sale overview
-![image](https://github.com/linh280999/PBI_Sales_Analysis/assets/144362005/c883fa0a-27f8-48e8-81aa-5c456eedcd31)
+![image](https://github.com/linh280999/PBI_Sales_Analysis/assets/144362005/3c79c114-f629-4608-8746-a4d5c14180a2)
 ### Customer Analysis
-![image](https://github.com/linh280999/PBI_Sales_Analysis/assets/144362005/8c8e7ddf-7657-4a8f-99a6-1c6cf09033a2)
+![image](https://github.com/linh280999/PBI_Sales_Analysis/assets/144362005/57ecce30-bbda-4dc6-bae4-df0b15fa43c0)
 ### Sale by product
-![image](https://github.com/linh280999/PBI_Sales_Analysis/assets/144362005/1281a0fc-b375-45ac-bd95-1a0ae4f5abe2)
+![image](https://github.com/linh280999/PBI_Sales_Analysis/assets/144362005/3b747ef5-defd-4a26-8663-3273162a3ac0)
 # Insight & recommendation
 ## 1. Insight
 ### Sale overview
