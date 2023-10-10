@@ -52,7 +52,7 @@ Dataset access:
 # Insight & recommendation
 ## 1. Insight
 ### Sale overview
-During the period 2011-2014, the business had 19,000 customers with more than 31,000 orders, the number of products ordered was more than 275,000 thousand, revenue was more than 110 million USD, profit was 9.37 million USD, the profit was 9.37 million USD. profit ratio was 8.53%
+During the period 2011-2014, the business had 19,000 customers with more than 31,000 orders, the number of products ordered was more than 275,000, revenue was more than 110 million USD, profit was 9.37 million USD, the profit was 9.37 million USD. profit ratio was 8.53%
 
 Annual growth rate reached 22.34%
 
